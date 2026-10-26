@@ -1,0 +1,5 @@
+"config","RF_RMSE","RF_R2","RMSE_pct_loss","nLoI","nLoI_lo","nLoI_hi"
+"RF predictive (nt1200,ns5)",61.78,0.5,0,0.1974,NA,NA
+"nt600 ns25",62.53,0.488,1.2,0.1849,NA,NA
+"nt400 ns50",63.41,0.473,2.6,0.161,NA,NA
+"nt300 ns80 [selected]",64.45,0.456,4.3,0.0829,0.089,0.176

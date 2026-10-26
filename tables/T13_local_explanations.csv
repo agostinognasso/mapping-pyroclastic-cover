@@ -1,0 +1,5 @@
+"case","observed","pred_ensemble_RF","segment_rule","rule"
+"low     (q05)",12,69.5,"71","ThickIso <=191 & ThickIso <=138 & ThickIso <=114 & !NDVI <=0.474799991 & !Elevation <=553.4299927 & !FlowDir <=180"
+"median  (q50)",64,68.6,"109","!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & !ThickIso <=307 & FlowDir <=166.0950012 & !DistHydnet <=525.0869751"
+"high    (q95)",285,193.2,"107","!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & ThickIso <=307 & !Slope <=34.88489914 & !ThickIso <=238"
+"extreme (max)",500,187.6,"105","!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & ThickIso <=307 & Slope <=34.88489914 & !DistHydnet <=1353.579956"

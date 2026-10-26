@@ -1,0 +1,5 @@
+"rule_id","n","pred_cm","path","class"
+"R4",462,46.4,"ThickIso <=191 & ThickIso <=138 & ThickIso <=114 & !NDVI <=0.474799991 & Elevation <=553.4299927","thin (<50)"
+"R18",704,88.6,"!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & !ThickIso <=307 & FlowDir <=166.0950012 & !DistHydnet <=525.0869751","medium (50-100)"
+"R13",621,132.7,"!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & ThickIso <=307 & Slope <=34.88489914 & DistHydnet <=1353.579956","thick (100-200)"
+"R14",571,211.4,"!ThickIso <=191 & ThickIso <=332 & !Slope <=7.083580017 & ThickIso <=307 & Slope <=34.88489914 & !DistHydnet <=1353.579956","very thick (>200)"

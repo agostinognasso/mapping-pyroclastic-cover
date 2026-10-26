@@ -1,0 +1,3 @@
+"scenario","R2_all_types","R2_fioretto_only","delta","RMSE_all_types","RMSE_fioretto_only"
+"sp15",0.187,0.049,-0.138,81.8,87.5
+"oper15_p25",0.481,0.505,0.024,65.6,63

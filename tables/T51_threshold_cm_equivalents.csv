@@ -1,0 +1,4 @@
+"R2","label","RMSE_cm","RMSE_reduction_pct","SD_cm"
+0.4,"operational use",70.26,22.54,90.7
+0.2,"in-area support",81.13,10.56,90.7
+0,"no skill",90.7,0,90.7

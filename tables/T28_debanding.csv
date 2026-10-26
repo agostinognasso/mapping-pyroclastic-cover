@@ -1,0 +1,4 @@
+"experiment","n_unique","plateau","edge_jump","roughness"
+"predA_z0orig",12717,0.0518,16.9053,15.1018
+"predA_z0smooth",12720,0.0515,16.834,15.0148
+"predB_retrain",12723,0.0489,20.3269,17.9739

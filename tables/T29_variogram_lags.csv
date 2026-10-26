@@ -1,0 +1,5 @@
+"width_m","n_lags","first_lag_m","model","practical_range_m","nugget_share"
+150,67,96,"Sph",1381,0.886
+200,50,127,"Sph",1311,0.883
+250,40,159,"Exp",1206,0.854
+300,34,190,"Exp",1004,0.827

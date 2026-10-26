@@ -1,0 +1,7 @@
+"model","RMSE","MAE","R2","Bias"
+"RF (ranger, final predictive model)",61.864,44.62,0.499,3.701
+"RF (randomForest, e2tree back end)",62.059,44.727,0.496,3.864
+"GPT_model",87.358,59.949,0,-20.852
+"SEPT_model",103.094,69.435,-0.392,-48.81
+"SAPT_model",165.791,140.576,-2.6,125.097
+"RF published (Table 4, test set, n=1843)",82.46,55.2,NA,NA

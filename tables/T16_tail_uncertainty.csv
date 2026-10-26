@@ -1,0 +1,7 @@
+"metric","value"
+"Tail MAE (RF mean)",102.14
+"Tail MAE (RF q95)",101.29
+"Tail bias, mean (pred-obs)",-87.39
+"Tail bias, q95 (pred-obs)",88.34
+"PI90% coverage (all)",0.92
+"Mean PI90% width (cm)",196.68

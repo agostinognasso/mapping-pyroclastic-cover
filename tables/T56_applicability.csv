@@ -1,0 +1,10 @@
+"what","value"
+"grid",16947
+"in_domain",12794
+"aoa",14696
+"in_domain_and_aoa",12539
+"in_domain_not_aoa",255
+"sampled_zone",235
+"sampled_and_aoa",234
+"aoa_threshold",0.4912
+"range_m",1206

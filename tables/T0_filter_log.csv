@@ -1,0 +1,6 @@
+"step","n"
+"dataset.csv, raw",8109
+"  excluded Forio/Procida",8087
+"  excluded partial measurements",7293
+"modelling dataset",7293
+"  rows with NA dropped (covariates/response)",7293
